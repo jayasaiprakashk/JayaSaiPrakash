@@ -5,7 +5,6 @@
 👀 Tech Enthusiast | Aspiring AI & ML Engineer  
 
 📫 How to reach me: koyyajayasaiprakash@gmail.com
-
 ---
 
 ## 💼 About Me
