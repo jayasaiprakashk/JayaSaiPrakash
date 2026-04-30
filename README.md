@@ -9,8 +9,9 @@
 ---
 
 ## 💼 About Me
-I worked as a **Full Stack .NET Developer** and now transitioning into **AI & Machine Learning**.  
-Currently doing **AIML training at Innomatics Research Labs** and learning **Quantum Computing at The Wiser**.  
+A passionate and dedicated technology professional with prior experience as a **Full Stack .NET Developer**, now transitioning into the field of **Artificial Intelligence** and **Machine Learning**. Currently undergoing **AI/ML training at Innomatics Research Labs**, while simultaneously exploring **Quantum Computing at The Wiser**.
+
+With a strong foundation in **software development** and growing expertise in **AI/ML**, I am focused on building intelligent, scalable, and future-ready applications.
 
 ---
 
